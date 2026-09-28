@@ -1,0 +1,18 @@
+Tag-a-War(e)
+Copyright (c) 2026 Rufus Hawkins. All rights reserved.
+
+This is a free playtest build.
+
+You're welcome to:
+- play it with anyone
+- stream it, record it and post videos of it, monetized or not
+- make custom maps and sound files where the game supports them
+
+Please don't:
+- sell it
+- re-upload or redistribute the game files. Share the download link instead.
+
+The game is provided as is, with no warranty of any kind.
+
+Third-party software and fonts used by the game are listed, with their
+licenses, in THIRD-PARTY-NOTICES.txt.
