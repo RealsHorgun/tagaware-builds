@@ -1,6 +1,6 @@
 # Tag-a-War(e) playtest builds
 
-Minigame movement tag. The sides swap on the beat.
+Minigame movement tag with team-swapping.
 
 **[Download the latest build](https://github.com/RealsHorgun/tagaware-builds/releases/latest/download/TagAWare.zip)** (Windows)
 
